@@ -1,4 +1,4 @@
-# Host-Behaviour-Analysis-for-property-rental-company
+# Host-Behaviour-Analysis-for-a-property-rental-company
 
 --Introduction--
 
