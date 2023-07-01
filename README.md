@@ -11,8 +11,9 @@ The aim of the project is to perform Behavioral analytics on a host for a proper
 --Data Description--
 
 1. Excel Files: This folder has an Excel workbook having the final Dashboard and 4 other worksheets having the combined and cleaned dataset for the host/super host dataset in. XLSX format.
-2. SQL query: This folder has a SQL query that is used to combine similar data from different countries in a single worksheet.
-3. PPT File: This folder has the ppt file for the Host Behaviour Analysis Project.
+2. Google Doc Files: This folder is similar to the "Excel Files" folder but is more dynamic and visually appealing having all the sheets used for DashBoard Creation in google doc format.
+3. SQL query: This folder has a SQL query that is used to combine similar data from different countries in a single worksheet.
+4. PPT File: This folder has the ppt file for the Host Behaviour Analysis Project.
 
 --Methodolgy--
 
