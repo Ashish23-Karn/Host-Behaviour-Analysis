@@ -11,7 +11,7 @@ The aim of the project is to perform Behavioral analytics on a host for a proper
 --Data Description--
 
 1. Excel Files: This folder has an Excel workbook having the final Dashboard and 4 other worksheets having the combined and cleaned dataset for the host/super host dataset in. XLSX format.
-2. Google Doc Files: This folder is similar to the "Excel Files" folder but is more dynamic and visually appealing having all the sheets used for DashBoard Creation in google doc format.
+2. Google Doc Files: This folder is similar to the "Excel Files" folder but is more dynamic and visually appealing having all the sheets used for DashBoard Creation in google sheet format.
 3. SQL query: This folder has a SQL query that is used to combine similar data from different countries in a single worksheet.
 4. PPT File: This folder has the ppt file for the Host Behaviour Analysis Project.
 
@@ -25,9 +25,14 @@ The project involves collecting and processing data for a property rental compan
 
 --DashBoard Creation--
 
-Here is the final dashboard which is static in nature as there was data on 4 sheets so it was not making any sense to add any slicer.
+Here is the final "Excel dashboard" which is static in nature as there was data on 4 sheets so it was not making any sense to add any slicer.
 
 ![Screenshot 2023-07-01 064702](https://github.com/Ashish23-Karn/Host-Behaviour-Analysis/assets/121361369/fda82ffb-aa70-42b7-9884-c5c5d4875db8)
+
+Here is the "Google Dashboard" for the same.
+
+![Screenshot 2023-07-01 190151](https://github.com/Ashish23-Karn/Host-Behaviour-Analysis/assets/121361369/c06c6e4f-d4d7-41a5-952a-785963b9be3d)
+
 
 --Insights--
 
