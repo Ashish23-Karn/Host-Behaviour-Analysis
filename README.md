@@ -32,6 +32,8 @@ The project involves collecting and processing data for a property rental compan
 
 --DashBoard Creation--
 
+The purpose of creating 2 dashboards was to see the differences for the same project when using two different major platforms, The finding is that while in Excel it was difficult to add slicers as the pivot tables were from 4 main worksheets named Host table, Listing count table, review table, and availability table, it was very easy to add slicers for the same at google sheets platform.
+
 Here is the final "Excel dashboard" which is static in nature as there was data on 4 sheets so it was not making any sense to add any slicer.
 
 ![Screenshot 2023-07-01 064702](https://github.com/Ashish23-Karn/Host-Behaviour-Analysis/assets/121361369/fda82ffb-aa70-42b7-9884-c5c5d4875db8)
